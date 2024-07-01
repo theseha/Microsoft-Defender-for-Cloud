@@ -39,7 +39,7 @@
         "workspaceSKU": "PerGB2018",
         "vmNameWindows": "asclab-win",
         "vmNameLinux": "asclab-linux",
-        "vmSize": "Standard_B1ms",
+        "vmSize": "Standard_A2_v2",
         "availabilitySetName": "asclab-as",
         "vNetName": "asclab-vnet",
         "vNetAddressPrefix": "192.168.0.0/16",
