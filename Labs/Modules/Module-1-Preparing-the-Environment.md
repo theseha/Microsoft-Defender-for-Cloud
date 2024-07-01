@@ -5,6 +5,8 @@
 #### 🎓 Level: 100 (Beginner)
 #### ⌛ Estimated time to complete this lab: 30 minutes
 
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Ftheseha%2FMicrosoft-Defender-for-Cloud%2Fmain%2FLabs%2FFiles%2Flabdeploy.json)
+
 ## Objectives
 Create a new Microsoft Account enable with Azure Trial Subscription 
 This section is intended to deploy Azure resources in an automated way to get you started quickly or in case you need to re-provision your environment.
